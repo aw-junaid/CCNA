@@ -28,7 +28,7 @@ The CCNA, or Cisco Certified Network Associate, is a professional certification 
 8. **Global Recognition:**
    - CCNA is a globally recognized certification that holds value in the IT and networking industry worldwide. It is often considered a foundational certification for networking professionals.
 
-### CCNA Certification Tracks (As of 2022):
+### CCNA Certification Tracks:
 
 1. **CCNA Routing and Switching (Legacy):**
    - Covered a comprehensive set of routing and switching topics, including IPv6, WAN technologies, and basic network security.
@@ -48,7 +48,7 @@ The CCNA, or Cisco Certified Network Associate, is a professional certification 
 6. **CCNA Collaboration (Deprecated):**
    - Focused on collaboration technologies, including voice, video, and unified communications. (Note: Cisco has since deprecated this certification track.)
 
-### Exam Information (As of 2022):
+### Exam Information:
 
 - The 200-301 CCNA exam is a single exam that covers a wide range of networking topics.
 - Cisco periodically updates its certification exams, so it's advisable to check the official Cisco website for the latest information.
